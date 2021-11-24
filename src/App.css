@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.comment-post{
+  background-color: aquamarine;
+  color: rgb(0, 0, 0);
+  border: 1px solid crimson;
+  border-radius: 15px;
+  margin: 20px;
+  display: grid;
+  grid-template-rows: repeat(3 1fr);
+}
